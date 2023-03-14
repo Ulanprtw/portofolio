@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Komentar untuk ulan.com	</title>
-	<atom:link href="https://ulanprtw.github.io/portofolio/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ulanprtw.github.io/portofolio</link>
+	Komentar di: Halo dunia!	</title>
+	<atom:link href="https://ulanprtw.github.io/portofolio/2023/03/09/halo-dunia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ulanprtw.github.io/portofolio/2023/03/09/halo-dunia/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Mar 2023 00:53:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		Komentar di Halo dunia! oleh Seorang Komentator WordPress		</title>
+		Oleh: Seorang Komentator WordPress		</title>
 		<link>https://ulanprtw.github.io/portofolio/2023/03/09/halo-dunia/#comment-1</link>
 
 		<dc:creator><![CDATA[Seorang Komentator WordPress]]></dc:creator>
